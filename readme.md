@@ -5,28 +5,28 @@ A aplicação é bem simples e tem como objetivo a visualização de programas d
 que podem ser contratados também atravéz so website mestrezaza.com.br.
 
 Página inicial: É a página de entrada da aplicação, nela o usuário faz a autenticação para ter acesso ao restante do sistema.
-    ![Alt text](/public/images/home_print.png?raw=true "Entrar")
+    ![Alt text](/src/assets/images/home_print.png?raw=true "Entrar")
 
 Página de registro: É a página onde o usuário se cadastra para acessar a plataforma.
-    ![Alt text](/public/images/register_print.png?raw=true "Inscrever-se")
+    ![Alt text](/src/assets/images/register_print.png?raw=true "Inscrever-se")
 
 Pagina home: É a página inicial depois que o usuário se autentica, nela você visualiza os últimos vídeos postados do mestre zaza.
-    ![Alt text](/public/images/home_ini_print.png?raw=true "Inicial")
+    ![Alt text](/src/assets/images/home_ini_print.png?raw=true "Inicial")
 
 Página de notificação: É a página que o usuário visualiza todas as notificações da conta dele.
-    ![Alt text](/public/images/home_ini_print.png?raw=true "Notificações")
+    ![Alt text](/src/assets/images/home_ini_print.png?raw=true "Notificações")
 
 Página de planos: É a página onde o usuário contrata os programas de treino.
-    ![Alt text](/public/images/plans_print.png?raw=true "Planos")
+    ![Alt text](/src/assets/images/plans_print.png?raw=true "Planos")
 
 Página de planos final: É a página de agradecimento ao usuário depois que ele compra um programa de treino.
-    ![Alt text](/public/images/plans_final_print.png?raw=true "Planos final")
+    ![Alt text](/src/assets/images/plans_final_print.png?raw=true "Planos final")
 
 Página de treinos: É a página onde tem todos os planos contratados pelo usuário.
-    ![Alt text](/public/images/trainings_print.png?raw=true "Treinos")
+    ![Alt text](/src/assets/images/trainings_print.png?raw=true "Treinos")
 
 Página de detalhes do treino: É a página onde o usuário consegue visualizar o programa de treino que ele comprou.
-    ![Alt text](/public/images/trainings_details_print.png?raw=true "Treinos Detalhe")
+    ![Alt text](/src/assets/images/trainings_details_print.png?raw=true "Treinos Detalhe")
 
 Nós usamos o fetch para fazer as requisições dos dados do usuário em um servidor remoto, porém, devido 
 a alguns problemas na API as requisições não foram feitas. A lógica de armazenamento seria de armazenar apenas
